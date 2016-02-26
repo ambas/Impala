@@ -1,0 +1,20 @@
+PODS:
+  - FSCalendar (1.8.1)
+  - HHRouter (0.1.5)
+  - Impala (0.1.0):
+    - FSCalendar (~> 1.8.1)
+    - HHRouter (~> 0.1.5)
+
+DEPENDENCIES:
+  - Impala (from `../`)
+
+EXTERNAL SOURCES:
+  Impala:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FSCalendar: 8ffbacc9186241f2d33a04053dd8c68ca2f38771
+  HHRouter: c82ce169fea838ea85a819133df40d19605f5c95
+  Impala: c1b572f0621cca572c6dfd91632f3c0940433cb5
+
+COCOAPODS: 0.39.0

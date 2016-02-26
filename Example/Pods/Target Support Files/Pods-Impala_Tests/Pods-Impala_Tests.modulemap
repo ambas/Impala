@@ -1,0 +1,6 @@
+framework module Pods_Impala_Tests {
+  umbrella header "Pods-Impala_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

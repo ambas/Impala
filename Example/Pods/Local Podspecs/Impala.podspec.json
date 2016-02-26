@@ -1,0 +1,33 @@
+{
+  "name": "Impala",
+  "version": "0.1.0",
+  "summary": "A short description of Impala.",
+  "description": "",
+  "homepage": "https://github.com/ambas/Impala",
+  "license": "MIT",
+  "authors": {
+    "Ambas Chobsanti": "ambaschobsanti@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ambas/Impala.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "Impala": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "HHRouter": [
+      "~> 0.1.5"
+    ],
+    "FSCalendar": [
+      "~> 1.8.1"
+    ]
+  }
+}
