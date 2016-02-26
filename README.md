@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/Impala.svg?style=flat)](http://cocoapods.org/pods/Impala)
 [![Platform](https://img.shields.io/cocoapods/p/Impala.svg?style=flat)](http://cocoapods.org/pods/Impala)
 
+<p align="center"><img src="https://github.com/ambas/Impala/blob/master/Screen%20Shot%202016-02-27%20at%2012.31.39%20AM.png"/></p>
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
